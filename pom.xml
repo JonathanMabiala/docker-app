@@ -10,7 +10,7 @@
 	</parent>
 	<groupId>com.jonarts</groupId>
 	<artifactId>docker-app</artifactId>
-	<version>1</version>
+	
 	<name>docker-app</name>
 	<description>docker app with spring boot</description>
 	<properties>
