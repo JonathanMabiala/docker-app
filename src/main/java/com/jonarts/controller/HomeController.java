@@ -8,7 +8,7 @@ public class HomeController {
 	
 	@GetMapping("/")
 	public String home() {
-		return "Welcome to the Home page";
+		return "DevOps Assessement";
 	}
 
 }
